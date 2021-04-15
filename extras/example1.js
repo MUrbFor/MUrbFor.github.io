@@ -59,47 +59,47 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.1.1.1",
-                                name: "Built environment solutions for pedestrians and cycling ",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.1.2",
-                                name: "Bike-sharing schemes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.1.3",
-                                name: "Cycle to work schemes (procured by councils for their staff)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.1.4",
-                                name: "Behaviour change to encourage active travel",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.1.1.1",
+                            name: "Built environment solutions for pedestrians and cycling ",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.1.2",
+                            name: "Bike-sharing schemes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.1.3",
+                            name: "Cycle to work schemes (procured by councils for their staff)",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.1.4",
+                            name: "Behaviour change to encourage active travel",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.1.2",
@@ -109,67 +109,67 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.1.2.1",
-                                name: "Mobility as a service",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.2.2",
-                                name: "Journey planning apps",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.2.3",
-                                name: "Integrated ticketing and smarter travel",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.2.4",
-                                name: "Micromobility schemes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.2.5",
-                                name: "New mass transit systems",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.2.6",
-                                name: "Bike retrofitting",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.1.2.1",
+                            name: "Mobility as a service",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.2.2",
+                            name: "Journey planning apps",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.2.3",
+                            name: "Integrated ticketing and smarter travel",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.2.4",
+                            name: "Micromobility schemes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.2.5",
+                            name: "New mass transit systems",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.2.6",
+                            name: "Bike retrofitting",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.1.3",
@@ -179,117 +179,77 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.1.3.1",
-                                name: "EV charging infrastructure (domestic)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.2",
-                                name: "EV charging infrastructure (workplace and public spaces)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.3",
-                                name: "EV charging infrastructure (smart charging)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.4",
-                                name: "EV charging infrastructure (wireless)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.5",
-                                name: "EV charging systems – peer-to-peer charging",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.6",
-                                name: "EV charging systems – vehicle-to-grid charging and grid balancing",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.7",
-                                name: "Traffic management systems",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.8",
-                                name: "Smart and emissions-based parking",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.9",
-                                name: "Charges: congestion charges and LEZs",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.10",
-                                name: "Taxi-leasing models for councils",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.3.11",
-                                name: "Connected and autonomous vehicles",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.1.3.1",
+                            name: "EV charging infrastructure",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.3.2",
+                            name: "EV charging systems",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.3.3",
+                            name: "Traffic management systems",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.3.4",
+                            name: "Smart and emissions-based parking",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.3.5",
+                            name: "Charges: congestion charges and LEZs",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.3.6",
+                            name: "Taxi-leasing models for councils",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.3.7",
+                            name: "Connected and autonomous vehicles",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.1.4",
@@ -299,57 +259,67 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.1.4.1",
-                                name: "EV cars (purchase or lease by councils and public sector) ",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.4.2",
-                                name: "EV municipal vehicles – gritters, bin lorries, etc",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.4.3",
-                                name: "Alternative fuel vehicles: hydrogen, biogas, hybrid (purchase or lease by councils and public sector)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.4.4",
-                                name: "Replacing public-sector cars with e-bikes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.4.5",
-                                name: "Cross public-sector car clubs",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.1.4.1",
+                            name: "EV cars (purchase or lease by councils and public sector) ",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.4.2",
+                            name: "EV municipal vehicles – gritters, bin lorries, etc",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.4.3",
+                            name: "Alternative fuel vehicles: hydrogen, biogas, hybrid (purchase or lease by councils and public sector)",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.4.4",
+                            name: "Replacing public-sector cars with e-bikes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.4.5",
+                            name: "Cross public-sector car clubs",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.4.6",
+                            name: "Smart driving tools",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.1.5",
@@ -359,57 +329,47 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.1.5.1",
-                                name: "EV bus fleets",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.5.2",
-                                name: "Other sustainable fuels in buses: LPG, biogas, hybrid, hydrogen, methanol",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.5.3",
-                                name: "Bus and rail retrofitting solutions",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.5.4",
-                                name: "Low-emission rail",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.5.4",
-                                name: "Smart driving tools",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.1.5.1",
+                            name: "EV bus fleets",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.5.2",
+                            name: "Other sustainable fuels in buses: LPG, biogas, hybrid, hydrogen, methanol",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.5.3",
+                            name: "Bus and rail retrofitting solutions",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.5.4",
+                            name: "Low-emission rail",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.1.6",
@@ -419,17 +379,17 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.1.6.1",
-                                name: "Remote and virtual working",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.1.6.1",
+                            name: "Remote and virtual working",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.1.7",
@@ -439,37 +399,37 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.1.7.1",
-                                name: "Drone substitution for public aviation services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.7.2",
-                                name: "Electric air taxi services using eVOTL technology",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.7.3",
-                                name: "Alternatives to fuel engines and aviation gasoline",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.1.7.1",
+                            name: "Drone substitution for public aviation services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.7.2",
+                            name: "Electric air taxi services using eVOTL technology",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.7.3",
+                            name: "Alternatives to fuel engines and aviation gasoline",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.1.8",
@@ -479,27 +439,27 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.1.8.1",
-                                name: "Maritime EV and sustainable fuel ferries",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.8.2",
-                                name: "Autonomous ships",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.1.8.1",
+                            name: "Maritime EV and sustainable fuel ferries",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.8.2",
+                            name: "Autonomous ships",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.1.9",
@@ -509,47 +469,47 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.1.9.1",
-                                name: "Drone-based distribution services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.9.2",
-                                name: "EV freight and logistics cars, LGVS and HGVS",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.9.3",
-                                name: "Alternative fuel cars, LGVs, HGVS and bikes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.1.9.4",
-                                name: "Autonomous delivery vehicles",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.1.9.1",
+                            name: "Drone-based distribution services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.9.2",
+                            name: "EV freight and logistics cars, LGVS and HGVS",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.9.3",
+                            name: "Alternative fuel cars, LGVs, HGVS and bikes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.1.9.4",
+                            name: "Autonomous delivery vehicles",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         }
                     ]
                 },
@@ -569,127 +529,127 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.2.1.1",
-                                name: "Domestic sector retrofit programmes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.2",
-                                name: "Gas boiler replacement",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.3",
-                                name: "Building inspections to enforce minimum standards of energy efficiency",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.4",
-                                name: "Appliance upgrade programmes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.5",
-                                name: "Installing double/triple glazing",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.6",
-                                name: "IoT technology for energy use monitoring and control",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.7",
-                                name: "Enable heat transfer from industrial sites to domestic",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.8",
-                                name: "Accrediting landlords for standards",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.9",
-                                name: "Installing reactive glazing",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.10",
-                                name: "Design and build ultra-low energy buildings",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.11",
-                                name: "Green roofing and walls",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.1.12",
-                                name: "Heating-as-a-Service",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.2.1.1",
+                            name: "Domestic sector retrofit programmes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.2",
+                            name: "Gas boiler replacement",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.3",
+                            name: "Building inspections to enforce minimum standards of energy efficiency",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.4",
+                            name: "Appliance upgrade programmes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.5",
+                            name: "Installing double/triple glazing",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.6",
+                            name: "IoT technology for energy use monitoring and control",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.7",
+                            name: "Enable heat transfer from industrial sites to domestic",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.8",
+                            name: "Accrediting landlords for standards",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.9",
+                            name: "Installing reactive glazing",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.10",
+                            name: "Design and build ultra-low energy buildings",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.11",
+                            name: "Green roofing and walls",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.1.12",
+                            name: "Heating-as-a-Service",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.2.2",
@@ -699,57 +659,57 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.2.2.1",
-                                name: "Design and build ultra-low energy buildings",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.2.2",
-                                name: "Public sector retrofit and certification programmes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.2.3",
-                                name: "Redesigning public services for building efficiency (such as hospital layouts)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.2.4",
-                                name: "IoT technology for energy use monitoring and control",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.2.5",
-                                name: "Digital Twin and intelligent monitoring of whole building or built environment",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.2.2.1",
+                            name: "Design and build ultra-low energy buildings",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.2.2",
+                            name: "Public sector retrofit and certification programmes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.2.3",
+                            name: "Redesigning public services for building efficiency (such as hospital layouts)",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.2.4",
+                            name: "IoT technology for energy use monitoring and control",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.2.5",
+                            name: "Digital Twin and intelligent monitoring of whole building or built environment",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.2.3",
@@ -759,59 +719,59 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.2.3.1",
-                                name: "Carbon audit services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.3.2",
-                                name: "Office retrofit programmes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.3.3",
-                                name: "Service redesign for efficiency in building use (including remote working, occupancy monitoring, hot desking)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.3.4",
-                                name: "Sustainable data centres",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.2.3.5",
-                                name: "Heat capture from computer warming",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.2.3.1",
+                            name: "Carbon audit services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.3.2",
+                            name: "Office retrofit programmes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.3.3",
+                            name: "Service redesign for efficiency in building use (including remote working, occupancy monitoring, hot desking)",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.3.4",
+                            name: "Sustainable data centres",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.2.3.5",
+                            name: "Heat capture from computer warming",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.1.3",
@@ -829,47 +789,47 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.3.1.1",
-                                name: "Alternatives to high-emissions chemical processes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.3.1.2",
-                                name: "Clustering of industrial sites",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.3.1.3",
-                                name: "Reduce water use and treatment for industrial processes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.3.1.4",
-                                name: "Waste heat recovery",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.3.1.1",
+                            name: "Alternatives to high-emissions chemical processes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.3.1.2",
+                            name: "Clustering of industrial sites",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.3.1.3",
+                            name: "Reduce water use and treatment for industrial processes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.3.1.4",
+                            name: "Waste heat recovery",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },  
                         {
                         id: "1.1.3.2",
@@ -879,29 +839,29 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.3.2.1",
-                                name: "Inspection and accreditation services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.3.2.2",
-                                name: "Leak detection, including optical gas imaging and differential absorption lidar. ",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.3.2.1",
+                            name: "Inspection and accreditation services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.3.2.2",
+                            name: "Leak detection, including optical gas imaging and differential absorption lidar. ",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         }        
-                    ]
+                  ]
                 },
                 {
                 id: "1.1.4",
@@ -919,57 +879,57 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.4.1.1",
-                                name: "Replacing unsustainable packaging and disposable goods with easily recyclable materials",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.1.2",
-                                name: "Refurbish/reuse, product-service models, and circular economy models",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.1.3",
-                                name: "Using less packaging",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.1.4",
-                                name: "Behaviour change campaigns to reduce wasteful consumption",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.1.5",
-                                name: "Behaviour change campaigns to reduce wasteful consumption",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.4.1.1",
+                            name: "Replacing unsustainable packaging and disposable goods with easily recyclable materials",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.1.2",
+                            name: "Refurbish/reuse, product-service models, and circular economy models",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.1.3",
+                            name: "Using less packaging",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.1.4",
+                            name: "Behaviour change campaigns to reduce wasteful consumption",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.1.5",
+                            name: "Behaviour change campaigns to reduce wasteful consumption",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.4.2",
@@ -979,79 +939,79 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.4.2.1",
-                                name: "New processes which make waste recyclable",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.2.2",
-                                name: "Autoclave sterilisation of domestic and commercial waste for increased recyclability",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.2.3",
-                                name: "Smart bin technology",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.2.4",
-                                name: "Bin lorry route optimisation",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.2.5",
-                                name: "Near Infra-Red Spectroscopy for differentiating plastic polymers in recycling",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.2.6",
-                                name: "Novel techniques in waste sorting",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.4.2.7",
-                                name: "Traditional waste management",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.4.2.1",
+                            name: "New processes which make waste recyclable",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.2.2",
+                            name: "Autoclave sterilisation of domestic and commercial waste for increased recyclability",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.2.3",
+                            name: "Smart bin technology",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.2.4",
+                            name: "Bin lorry route optimisation",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.2.5",
+                            name: "Near Infra-Red Spectroscopy for differentiating plastic polymers in recycling",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.2.6",
+                            name: "Novel techniques in waste sorting",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.4.2.7",
+                            name: "Traditional waste management",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.1.5",
@@ -1069,37 +1029,37 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.5.1.1",
-                                name: "LED street lighting",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.5.1.2",
-                                name: "Intelligent street lighting",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.5.1.3",
-                                name: "Smart public realm monitoring",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.5.1.1",
+                            name: "LED street lighting",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.5.1.2",
+                            name: "Intelligent street lighting",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.5.1.3",
+                            name: "Smart public realm monitoring",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.1.5.2",
@@ -1109,29 +1069,29 @@ function init(){
                            color: "#e0cfb0"
                            },
                         children: [
-                                {
-                                id: "1.1.5.2.1",
-                                name: "Changing practices on county farms to reduce emissions",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.1.5.2.2",
-                                name: "Support for farmers to change practices to reduce emissions",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#ddd9d1"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.1.5.2.1",
+                            name: "Changing practices on county farms to reduce emissions",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.1.5.2.2",
+                            name: "Support for farmers to change practices to reduce emissions",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#ddd9d1"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 }
             ]
         },
@@ -1159,67 +1119,67 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.1.1.1",
-                                name: "Installing hydrogen boilers",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.1.2",
-                                name: "Increasing hydrogen in gas supply",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.1.3",
-                                name: "Replacing gas with hydrogen in energy-intensive industry",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.1.4",
-                                name: "Domestic and commercial heat pump installation",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.1.5",
-                                name: "Novel heating technology",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.1.5",
-                                name: "Solar Thermal",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.1.1.1",
+                            name: "Installing hydrogen boilers",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.1.2",
+                            name: "Increasing hydrogen in gas supply",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.1.3",
+                            name: "Replacing gas with hydrogen in energy-intensive industry",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.1.4",
+                            name: "Domestic and commercial heat pump installation",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.1.5",
+                            name: "Novel heating technology",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.1.5",
+                            name: "Solar Thermal",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.2.1.2",
@@ -1229,27 +1189,27 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.1.2.1",
-                                name: "Domestic and commercial biomass schemes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.2.2",
-                                name: "Turning waste into biofuel",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.2.1.2.1",
+                            name: "Domestic and commercial biomass schemes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.2.2",
+                            name: "Turning waste into biofuel",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.2.1.3",
@@ -1259,37 +1219,37 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.1.3.1",
-                                name: "Installing PV cells on buildings",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.3.2",
-                                name: "Creating solar farms",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.3.3",
-                                name: "Novel solar, including nighttime photovoltaics and flexible solar films",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.2.1.3.1",
+                            name: "Installing PV cells on buildings",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.3.2",
+                            name: "Creating solar farms",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.3.3",
+                            name: "Novel solar, including nighttime photovoltaics and flexible solar films",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.2.1.4",
@@ -1299,27 +1259,27 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.1.4.1",
-                                name: "Personal movement electricity generation",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.4.2",
-                                name: "Kinetic tiles and surfaces",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.1.4.1",
+                            name: "Personal movement electricity generation",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.4.2",
+                            name: "Kinetic tiles and surfaces",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.2.1.5",
@@ -1329,47 +1289,47 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.1.5.1",
-                                name: "Minewater energy",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.5.2",
-                                name: "Deep geothermal energy",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.5.3",
-                                name: "Shallow geothermal energy",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.5.4",
-                                name: "Novel geothermal",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.1.5.1",
+                            name: "Minewater energy",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.5.2",
+                            name: "Deep geothermal energy",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.5.3",
+                            name: "Shallow geothermal energy",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.5.4",
+                            name: "Novel geothermal",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.2.1.6",
@@ -1379,67 +1339,57 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.1.6.1",
-                                name: "Onshore wind farms",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.6.2",
-                                name: "Offshore wind farms",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.6.3",
-                                name: "Small-scale wind turbine schemes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.6.4",
-                                name: "Tidal power",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.6.5",
-                                name: "Hydroelectric",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.6.6",
-                                name: "Novel natural renewables",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.1.6.1",
+                            name: "Onshore wind",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.6.2",
+                            name: "Offshore wind",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.6.3",
+                            name: "Tidal power",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.6.4",
+                            name: "Hydroelectric",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.6.5",
+                            name: "Novel natural renewables",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.2.1.7",
@@ -1449,29 +1399,29 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.1.7.1",
-                                name: "District and community heat networks",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.1.7.2",
-                                name: "Domestic and commercial CHP schemes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.1.7.1",
+                            name: "District and community heat networks",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.1.7.2",
+                            name: "Domestic and commercial CHP schemes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.2.2",
@@ -1489,17 +1439,17 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.2.1.1",
-                                name: "Group buying services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.2.1.1",
+                            name: "Group buying services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.2.2.2",
@@ -1509,39 +1459,39 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.2.2.1",
-                                name: "Smart metering",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.2.2.2",
-                                name: "Behaviour change campaigns",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.2.2.3",
-                                name: "Information and advice to residents and businesses",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.2.2.1",
+                            name: "Smart metering",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.2.2.2",
+                            name: "Behaviour change campaigns",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.2.2.3",
+                            name: "Information and advice to residents and businesses",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.2.3",
@@ -1559,27 +1509,27 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.3.1.1",
-                                name: "Community-owned energy",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.3.1.2",
-                                name: "Public owned energy suppliers",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.3.1.1",
+                            name: "Community-owned energy",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.3.1.2",
+                            name: "Public owned energy suppliers",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.2.3.2",
@@ -1589,47 +1539,47 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.3.2.1",
-                                name: "Battery storage",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.3.2.2",
-                                name: "Fuel cells",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.3.2.3",
-                                name: "Mechanical Storage",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.3.2.4",
-                                name: "Thermal storage",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.3.2.1",
+                            name: "Battery storage",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.3.2.2",
+                            name: "Fuel cells",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.3.2.3",
+                            name: "Mechanical Storage",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.3.2.4",
+                            name: "Thermal storage",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.2.3.3",
@@ -1639,39 +1589,39 @@ function init(){
                            color: "#a9c1cc"
                            },
                         children: [
-                                {
-                                id: "1.2.3.3.1",
-                                name: "Smart grids",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.3.3.2",
-                                name: "Flexible demand services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.2.3.3.3",
-                                name: "Time of use services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#bbc7cc"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.2.3.3.1",
+                            name: "Smart grids",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.3.3.2",
+                            name: "Flexible demand services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.2.3.3.3",
+                            name: "Time of use services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#bbc7cc"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 }
             ]
         },
@@ -1699,47 +1649,47 @@ function init(){
                            color: "#9db7b3"
                            },
                         children: [
-                                {
-                                id: "1.3.1.1.1",
-                                name: "Localising supply chains to reduce food miles",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.1.1.2",
-                                name: "Land for community growing",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.1.1.3",
-                                name: "Urban farming/Vertical Farming",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.1.1.4",
-                                name: "Behaviour change campaigns to encourage local buying",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.3.1.1.1",
+                            name: "Localising supply chains to reduce food miles",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.1.1.2",
+                            name: "Land for community growing",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.1.1.3",
+                            name: "Urban farming/Vertical Farming",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.1.1.4",
+                            name: "Behaviour change campaigns to encourage local buying",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.3.1.2",
@@ -1749,47 +1699,47 @@ function init(){
                            color: "#9db7b3"
                            },
                         children: [
-                                {
-                                id: "1.3.1.2.1",
-                                name: "Low carbon contract caterers",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.1.2.2",
-                                name: "Switching wholesale food purchase away from meat and dairy",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.1.2.3",
-                                name: "Voluntary food labelling to indicate carbon costs",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.1.2.4",
-                                name: "Behaviour change campaigns to raise awareness of the carbon costs of food",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.3.1.2.1",
+                            name: "Low carbon contract caterers",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.1.2.2",
+                            name: "Switching wholesale food purchase away from meat and dairy",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.1.2.3",
+                            name: "Voluntary food labelling to indicate carbon costs",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.1.2.4",
+                            name: "Behaviour change campaigns to raise awareness of the carbon costs of food",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.3.1.3",
@@ -1799,29 +1749,29 @@ function init(){
                            color: "#9db7b3"
                            },
                         children: [
-                                {
-                                id: "1.3.1.3.1",
-                                name: "Food and drink ERP software",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.1.3.2",
-                                name: "Food waste disposal services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.3.1.3.1",
+                            name: "Food and drink ERP software",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.1.3.2",
+                            name: "Food waste disposal services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.3.2",
@@ -1839,27 +1789,27 @@ function init(){
                            color: "#9db7b3"
                            },
                         children: [
-                                {
-                                id: "1.3.2.1.1",
-                                name: "Accreditation schemes for circular economy products",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.2.1.2",
-                                name: "Second-hand goods market regulation to give consumer confidence",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.3.2.1.1",
+                            name: "Accreditation schemes for circular economy products",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.2.1.2",
+                            name: "Second-hand goods market regulation to give consumer confidence",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.3.2.2",
@@ -1869,37 +1819,37 @@ function init(){
                            color: "#9db7b3"
                            },
                         children: [
-                                {
-                                id: "1.3.2.2.1",
-                                name: "3D printing & additive manufacturing",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.2.2.2",
-                                name: "Distribution of business districts and shops (5 minute city model) through licencing",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.2.2.3",
-                                name: "Localising supply chains to reduce emissions",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.3.2.2.1",
+                            name: "3D printing & additive manufacturing",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.2.2.2",
+                            name: "Distribution of business districts and shops (5 minute city model) through licencing",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.2.2.3",
+                            name: "Localising supply chains to reduce emissions",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.3.2.3",
@@ -1909,19 +1859,19 @@ function init(){
                            color: "#9db7b3"
                            },
                         children: [
-                                {
-                                id: "1.3.2.3.1",
-                                name: "Behaviour change campaigns (awareness raising and incentivising)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.3.2.3.1",
+                            name: "Behaviour change campaigns (awareness raising and incentivising)",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.3.3",
@@ -1939,29 +1889,29 @@ function init(){
                            color: "#9db7b3"
                            },
                         children: [
-                                {
-                                id: "1.3.3.3.1",
-                                name: "Sustainable data centres",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.3.3.2",
-                                name: "Reducing data-intensive processes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.3.3.3.1",
+                            name: "Sustainable data centres",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.3.3.2",
+                            name: "Reducing data-intensive processes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.3.4",
@@ -1979,67 +1929,67 @@ function init(){
                            color: "#9db7b3"
                            },
                         children: [
-                                {
-                                id: "1.3.4.1.1",
-                                name: "Lower-carbon concrete",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.1.2",
-                                name: "Lower-carbon steel",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.1.3",
-                                name: "Timber construction (frames)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.1.4",
-                                name: "Cross-Laminated Timber",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.1.5",
-                                name: "Other natural building materials including straw bales, grasscrete, rammed earth, hempcrete, and bamboo",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.1.6",
-                                name: "Use of reclaimed/refurbished materials",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.3.4.1.1",
+                            name: "Lower-carbon concrete",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.1.2",
+                            name: "Lower-carbon steel",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.1.3",
+                            name: "Timber construction (frames)",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.1.4",
+                            name: "Cross-Laminated Timber",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.1.5",
+                            name: "Other natural building materials including straw bales, grasscrete, rammed earth, hempcrete, and bamboo",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.1.6",
+                            name: "Use of reclaimed/refurbished materials",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.3.4.2",
@@ -2049,69 +1999,69 @@ function init(){
                            color: "#9db7b3"
                            },
                         children: [
-                                {
-                                id: "1.3.4.2.1",
-                                name: "Modular construction",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.2.2",
-                                name: "Automation of on-site processes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.2.3",
-                                name: "3D printing & additive manufacturing",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.2.4",
-                                name: "Design for manufacture and assembly (DfMA)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.2.5",
-                                name: "BIM & Digital Planning",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.3.4.2.6",
-                                name: "Construction ERP software (Enterprise Resource Planning)",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#b1bab9"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.3.4.2.1",
+                            name: "Modular construction",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.2.2",
+                            name: "Automation of on-site processes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.2.3",
+                            name: "3D printing & additive manufacturing",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.2.4",
+                            name: "Design for manufacture and assembly (DfMA)",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.2.5",
+                            name: "BIM & Digital Planning",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.3.4.2.6",
+                            name: "Construction ERP software (Enterprise Resource Planning)",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#b1bab9"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 }
             ]
         },
@@ -2139,67 +2089,67 @@ function init(){
                            color: "#c1a4b9"
                            },
                         children: [
-                                {
-                                id: "1.4.1.1.1",
-                                name: "Peatland restoration",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.1.1.2",
-                                name: "Peatland protection monitoring",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.1.1.3",
-                                name: "Sustainable land management services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.1.1.4",
-                                name: "Woodland management solutions",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.1.1.5",
-                                name: "Natural capital business modelling",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.1.1.6",
-                                name: "Carbon negative woodlands for biomass",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.4.1.1.1",
+                            name: "Peatland restoration",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.1.1.2",
+                            name: "Peatland protection monitoring",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.1.1.3",
+                            name: "Sustainable land management services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.1.1.4",
+                            name: "Woodland management solutions",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.1.1.5",
+                            name: "Natural capital business modelling",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.1.1.6",
+                            name: "Carbon negative woodlands for biomass",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.4.1.2",
@@ -2209,59 +2159,59 @@ function init(){
                            color: "#c1a4b9"
                            },
                         children: [
-                                {
-                                id: "1.4.1.2.1",
-                                name: "Wetland creation schemes along existing waterways",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.1.2.2",
-                                name: "Constructed wetland treatment systems",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.1.2.3",
-                                name: "Natural floodplain management systems",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.1.2.4",
-                                name: "Sustainable urban drainage systems",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.1.2.5",
-                                name: "Digital twinning in water treatment",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.4.1.2.1",
+                            name: "Wetland creation schemes along existing waterways",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.1.2.2",
+                            name: "Constructed wetland treatment systems",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.1.2.3",
+                            name: "Natural floodplain management systems",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.1.2.4",
+                            name: "Sustainable urban drainage systems",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.1.2.5",
+                            name: "Digital twinning in water treatment",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.4.2",
@@ -2279,37 +2229,37 @@ function init(){
                            color: "#c1a4b9"
                            },
                         children: [
-                                {
-                                id: "1.4.2.1.1",
-                                name: "New tree planting and green infrastructure",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.2.1.2",
-                                name: "Natural regeneration management ",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.2.1.3",
-                                name: "Green roofing",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.4.2.1.1",
+                            name: "New tree planting and green infrastructure",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.2.1.2",
+                            name: "Natural regeneration management ",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.2.1.3",
+                            name: "Green roofing",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.4.2.2",
@@ -2319,19 +2269,19 @@ function init(){
                            color: "#c1a4b9"
                            },
                         children: [
-                                {
-                                id: "1.4.2.2.1",
-                                name: "New wetlands, rivers and canals",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "adapting",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.4.2.2.1",
+                            name: "New wetlands, rivers and canals",
+                            data: {
+                               hierarchy: "solution",
+                               band: "adapting",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            }
+                        ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.4.3",
@@ -2349,27 +2299,27 @@ function init(){
                            color: "#c1a4b9"
                            },
                         children: [
-                                {
-                                id: "1.4.3.1.1",
-                                name: "Source capture technology",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.3.1.2",
-                                name: "Direct air capture technology",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.4.3.1.1",
+                            name: "Source capture technology",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.3.1.2",
+                            name: "Direct air capture technology",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.4.3.2",
@@ -2379,39 +2329,39 @@ function init(){
                            color: "#c1a4b9"
                            },
                         children: [
-                                {
-                                id: "1.4.3.2.1",
-                                name: "Geostorage",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.3.2.2",
-                                name: "Solid state storage",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.3.2.3",
-                                name: "Mineral storage",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.4.3.2.1",
+                            name: "Geostorage",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.3.2.2",
+                            name: "Solid state storage",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.3.2.3",
+                            name: "Mineral storage",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.4.4",
@@ -2429,39 +2379,39 @@ function init(){
                            color: "#c1a4b9"
                            },
                         children: [
-                                {
-                                id: "1.4.4.1.1",
-                                name: "Carbon offset providers",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.4.1.2",
-                                name: "Carbon offset accreditation services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.4.4.1.3",
-                                name: "Buying and selling carbon offset credits",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c1b4bd"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.4.4.1.1",
+                            name: "Carbon offset providers",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.4.1.2",
+                            name: "Carbon offset accreditation services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.4.4.1.3",
+                            name: "Buying and selling carbon offset credits",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c1b4bd"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 }
             ]
         },
@@ -2489,27 +2439,27 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.1.1.1",
-                                name: "School programmes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.1.1.2",
-                                name: "Environmental awareness campaigns",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.5.1.1.1",
+                            name: "School programmes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.1.1.2",
+                            name: "Environmental awareness campaigns",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.5.1.2",
@@ -2519,30 +2469,30 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.1.2.1",
-                                name: "Reflecting natural forms in the built environment",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.1.2.2",
-                                name: "Planting street trees and greening public spaces",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                            {
+                            id: "1.5.1.2.1",
+                            name: "Reflecting natural forms in the built environment",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.1.2.2",
+                            name: "Planting street trees and greening public spaces",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         }
 
-                    ]
+                  ]
                 },
                 {
                 id: "1.5.2",
@@ -2552,7 +2502,7 @@ function init(){
                    color: "#c99587"
                    },
                 children: [
-                        {
+            {
                         id: "1.5.2.1",
                         name: "Reducing exposure of investments to carbon",
                         data: {
@@ -2560,17 +2510,17 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.2.1.1",
-                                name: "Green pension/investment funds",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.2.1.1",
+                            name: "Green pension/investment funds",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.5.2.2",
@@ -2580,27 +2530,27 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.2.2.1",
-                                name: "Green vehicle finance",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.2.2.2",
-                                name: "Green insurance products",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.2.2.1",
+                            name: "Green vehicle finance",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.2.2.2",
+                            name: "Green insurance products",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.5.2.3",
@@ -2610,29 +2560,29 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.2.3.1",
-                                name: "Carbon trading and pricing schemes",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.2.3.2",
-                                name: "Carbon pricing for suppliers",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.2.3.1",
+                            name: "Carbon trading and pricing schemes",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.2.3.2",
+                            name: "Carbon pricing for suppliers",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.5.3",
@@ -2642,7 +2592,7 @@ function init(){
                    color: "#c99587"
                    },
                 children: [
-                        {
+            {
                         id: "1.5.3.1",
                         name: "Monitoring carbon emissions",
                         data: {
@@ -2650,27 +2600,27 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.3.1.1",
-                                name: "Emissions monitoring software",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.3.1.2",
-                                name: "Emissions monitoring hardware",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.3.1.1",
+                            name: "Emissions monitoring software",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.3.1.2",
+                            name: "Emissions monitoring hardware",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.5.3.2",
@@ -2680,17 +2630,17 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.3.2.1",
-                                name: "Open data regulations",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.3.2.1",
+                            name: "Open data regulations",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.5.3.3",
@@ -2700,29 +2650,29 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.3.3.1",
-                                name: "Creating land use and land ownership maps",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.3.3.2",
-                                name: "Creating spatial emissions and environmental information maps",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.3.3.1",
+                            name: "Creating land use and land ownership maps",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.3.3.2",
+                            name: "Creating spatial emissions and environmental information maps",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.5.4",
@@ -2732,7 +2682,7 @@ function init(){
                    color: "#c99587"
                    },
                 children: [
-                        {
+            {
                         id: "1.5.4.1",
                         name: "Building in low emissions to development",
                         data: {
@@ -2740,49 +2690,49 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.4.1.1",
-                                name: "Planning policy requiring minimum efficiency standards",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.4.1.2",
-                                name: "Spatial planning to encourage active travel ",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.4.1.3",
-                                name: "Housing planning alongside public transport planning",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.4.1.4",
-                                name: "Planning policy to encourage renewables",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.4.1.1",
+                            name: "Planning policy requiring minimum efficiency standards",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.4.1.2",
+                            name: "Spatial planning to encourage active travel ",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.4.1.3",
+                            name: "Housing planning alongside public transport planning",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.4.1.4",
+                            name: "Planning policy to encourage renewables",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.5.5",
@@ -2792,7 +2742,7 @@ function init(){
                    color: "#c99587"
                    },
                 children: [
-                        {
+            {
                         id: "1.5.5.1",
                         name: "Creating pipeline of skills necessary to achieve net zero in existing disciplines",
                         data: {
@@ -2800,19 +2750,19 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.5.1.1",
-                                name: "Training providers",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.5.1.1",
+                            name: "Training providers",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         }
-                    ]
+                  ]
                 },
                 {
                 id: "1.5.6",
@@ -2822,7 +2772,7 @@ function init(){
                    color: "#c99587"
                    },
                 children: [
-                        {
+            {
                         id: "1.5.6.1",
                         name: "Corporate memory improvements",
                         data: {
@@ -2830,17 +2780,17 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.6.1.1",
-                                name: "Management software and tech providers",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.6.1.1",
+                            name: "Management software and tech providers",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.5.6.2",
@@ -2850,87 +2800,87 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.6.2.1",
-                                name: "Procurement consortia for immature markets",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.2.2",
-                                name: "Scoring for carbon impact",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.2.3",
-                                name: "Challenge-based procurement",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.2.4",
-                                name: "Culture challenge in policy vs procurement",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.2.5",
-                                name: "Legal advice to avoid gold-plating procurement law",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.2.6",
-                                name: "Collaborative procurement approaches",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.2.7",
-                                name: "Two-tier procurement approaches",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.2.8",
-                                name: "Principle contractors with carbon targets",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }
-                            ]
+                {
+                            id: "1.5.6.2.1",
+                            name: "Procurement consortia for immature markets",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.2.2",
+                            name: "Scoring for carbon impact",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.2.3",
+                            name: "Challenge-based procurement",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.2.4",
+                            name: "Culture challenge in policy vs procurement",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.2.5",
+                            name: "Legal advice to avoid gold-plating procurement law",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.2.6",
+                            name: "Collaborative procurement approaches",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.2.7",
+                            name: "Two-tier procurement approaches",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.2.8",
+                            name: "Principle contractors with carbon targets",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }
+                          ]
                         },
                         {
                         id: "1.5.6.3",
@@ -2940,47 +2890,47 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.6.3.1",
-                                name: "Consultancy services for exploring business cases",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.3.2",
-                                name: "Whole-life costing of products and services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "established",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.3.3",
-                                name: "Carbon budgeting tools",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "emerging",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.3.4",
-                                name: "Consolidation of budgets to remove silos",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }                              
-                            ]
+                {
+                            id: "1.5.6.3.1",
+                            name: "Consultancy services for exploring business cases",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.3.2",
+                            name: "Whole-life costing of products and services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "established",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.3.3",
+                            name: "Carbon budgeting tools",
+                            data: {
+                               hierarchy: "solution",
+                               band: "emerging",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.3.4",
+                            name: "Consolidation of budgets to remove silos",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }                              
+                          ]
                         },
                         {
                         id: "1.5.6.4",
@@ -2990,49 +2940,49 @@ function init(){
                            color: "#caa89f"
                            },
                         children: [
-                                {
-                                id: "1.5.6.4.1",
-                                name: "Participation services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.4.2",
-                                name: "Consultation services",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.4.3",
-                                name: "Citizen assemblies and online forums",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                },
-                                {
-                                id: "1.5.6.4.4",
-                                name: "Communications",
-                                data: {
-                                   hierarchy: "solution",
-                                   band: "internal",
-                                   color: "#c7b9b5"
-                                   },
-                                children: []
-                                }   
-                            ]
+                {
+                            id: "1.5.6.4.1",
+                            name: "Participation services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.4.2",
+                            name: "Consultation services",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.4.3",
+                            name: "Citizen assemblies and online forums",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            },
+                            {
+                            id: "1.5.6.4.4",
+                            name: "Communications",
+                            data: {
+                               hierarchy: "solution",
+                               band: "internal",
+                               color: "#c7b9b5"
+                               },
+                            children: []
+                            }   
+                          ]
                         }
-                    ]
+                  ]
                 }
             ]
         }]
