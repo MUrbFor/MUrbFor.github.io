@@ -40,7 +40,7 @@ function init(){
         name: "Reducing direct emissions: emissions from sources within a place",
         data: {
            hierarchy: "strategic",
-           color: "#e4bd79"
+           color: "#53B8D3"
            },
         children: [
                 {
@@ -48,7 +48,7 @@ function init(){
                 name: "Reducing emissions from transport",
                 data: {
                    hierarchy: "high",
-                   color: "#edd9b6"
+                   color: "#78C7DD"
                    },
                 children: [
                         {
@@ -56,7 +56,7 @@ function init(){
                         name: "Encouraging people to cycle and walk",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -65,7 +65,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -75,7 +75,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -85,7 +85,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -95,7 +95,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -106,7 +106,7 @@ function init(){
                         name: "Encouraging people to use public and low-carbon transport",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -115,7 +115,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -125,7 +125,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -135,7 +135,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -145,7 +145,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -155,7 +155,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -165,7 +165,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -176,7 +176,7 @@ function init(){
                         name: "Reducing emissions from cars and taxis (owned by citizens and businesses)",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -185,7 +185,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -195,7 +195,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -205,7 +205,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -215,7 +215,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -225,7 +225,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -235,7 +235,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -245,7 +245,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -256,7 +256,7 @@ function init(){
                         name: "Reducing emissions from public-sector fleets",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -265,7 +265,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -275,7 +275,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -285,7 +285,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -295,7 +295,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -305,7 +305,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -315,7 +315,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -326,7 +326,7 @@ function init(){
                         name: "Reducing emissions from public transport",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -335,7 +335,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -345,7 +345,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -355,7 +355,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -365,7 +365,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -376,7 +376,7 @@ function init(){
                         name: "Travel substitution",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -385,7 +385,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -396,7 +396,7 @@ function init(){
                         name: "Reducing aviation emissions",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -405,7 +405,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -415,7 +415,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -425,7 +425,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -436,7 +436,7 @@ function init(){
                         name: "Reducing maritime emissions",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -445,7 +445,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -455,7 +455,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -466,7 +466,7 @@ function init(){
                         name: "Reducing freight and logistics emissions",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -475,7 +475,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -485,7 +485,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -495,7 +495,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -505,7 +505,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -518,7 +518,7 @@ function init(){
                 name: "Reducing emissions from buildings",
                 data: {
                    hierarchy: "high",
-                   color: "#edd9b6"
+                   color: "#78C7DD"
                    },
                 children: [
                         {
@@ -526,7 +526,7 @@ function init(){
                         name: "Improve energy efficiency of private housing and social housing",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -535,7 +535,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -545,7 +545,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -555,7 +555,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -565,7 +565,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -575,7 +575,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -585,7 +585,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -595,7 +595,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -605,7 +605,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -615,7 +615,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -625,7 +625,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -635,7 +635,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -645,7 +645,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -656,7 +656,7 @@ function init(){
                         name: "Reducing emissions from public buildings",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -665,7 +665,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -675,7 +675,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -685,7 +685,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -695,7 +695,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -705,7 +705,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -716,7 +716,7 @@ function init(){
                         name: "Reducing emissions from offices",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -725,7 +725,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -735,7 +735,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -745,7 +745,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -755,7 +755,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -765,7 +765,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -778,7 +778,7 @@ function init(){
                 name: "Reducing emissions from industry",
                 data: {
                    hierarchy: "high",
-                   color: "#edd9b6"
+                   color: "#78C7DD"
                    },
                 children: [
                         {
@@ -786,7 +786,7 @@ function init(){
                         name: "Reducing emissions from factories, manufacturing and commercial premises",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -795,7 +795,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -805,7 +805,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -815,7 +815,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -825,7 +825,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -836,7 +836,7 @@ function init(){
                         name: "Reducing fugitive emissions",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -845,7 +845,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -855,7 +855,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -868,7 +868,7 @@ function init(){
                 name: "Reducing emissions from waste",
                 data: {
                    hierarchy: "high",
-                   color: "#edd9b6"
+                   color: "#78C7DD"
                    },
                 children: [
                         {
@@ -876,7 +876,7 @@ function init(){
                         name: "Reducing domestic and industrial waste",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -885,7 +885,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -895,7 +895,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -905,7 +905,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -915,7 +915,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -925,7 +925,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -936,7 +936,7 @@ function init(){
                         name: "Reducing Emissions from Waste Management",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -945,7 +945,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -955,7 +955,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -965,7 +965,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -975,7 +975,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -985,7 +985,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -995,7 +995,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -1005,7 +1005,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -1018,7 +1018,7 @@ function init(){
                 name: "Reducing emissions directly produced from public space, land and agriculture",
                 data: {
                    hierarchy: "high",
-                   color: "#edd9b6"
+                   color: "#78C7DD"
                    },
                 children: [
                         {
@@ -1026,7 +1026,7 @@ function init(){
                         name: "Reducing emissions from infrastructure and public realm",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -1035,7 +1035,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -1045,7 +1045,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -1055,7 +1055,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -1066,7 +1066,7 @@ function init(){
                         name: "Reducing agricultural emissions",
                         data: {
                            hierarchy: "tactical",
-                           color: "#e0cfb0"
+                           color: "#9ED7E6"
                            },
                         children: [
                             {
@@ -1075,7 +1075,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             },
@@ -1085,7 +1085,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#ddd9d1"
+                               color: "#C3E6F0"
                                },
                             children: []
                             }
@@ -1100,7 +1100,7 @@ function init(){
         name: "Emissions from energy: emissions caused by energy production required by activity within a place",
         data: {
            hierarchy: "strategic",
-           color: "#5eabcf"
+           color: "#DD528B"
            },
         children: [
                 {
@@ -1108,7 +1108,7 @@ function init(){
                 name: "Increasing renewables and low-carbon energy generation",
                 data: {
                    hierarchy: "high",
-                   color: "#89b7cc"
+                   color: "#E478A4"
                    },
                 children: [
                         {
@@ -1116,7 +1116,7 @@ function init(){
                         name: "Increasing renewable heat supply",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1125,7 +1125,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1135,7 +1135,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1145,7 +1145,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1155,7 +1155,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1165,7 +1165,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1175,7 +1175,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1186,7 +1186,7 @@ function init(){
                         name: "Increasing energy from biomass and waste",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                 {
@@ -1195,7 +1195,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1205,7 +1205,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1216,7 +1216,7 @@ function init(){
                         name: "Increasing energy from solar",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                 {
@@ -1225,7 +1225,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1235,7 +1235,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1245,7 +1245,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1256,7 +1256,7 @@ function init(){
                         name: "Increasing energy generation from kinetic processes",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1265,7 +1265,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1275,7 +1275,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1286,7 +1286,7 @@ function init(){
                         name: "Increasing energy from geothermic sources",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1295,7 +1295,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1305,7 +1305,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1315,7 +1315,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1325,7 +1325,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1336,7 +1336,7 @@ function init(){
                         name: "Increasing energy from wind, wave and natural renewables",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1345,7 +1345,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1355,7 +1355,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1365,7 +1365,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1375,7 +1375,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1385,7 +1385,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1396,7 +1396,7 @@ function init(){
                         name: "Combining energy generation for buildings",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1405,7 +1405,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1415,7 +1415,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1428,7 +1428,7 @@ function init(){
                 name: "Changing behaviour in energy consumption",
                 data: {
                    hierarchy: "high",
-                   color: "#89b7cc"
+                   color: "#E478A4"
                    },
                 children: [
                         {
@@ -1436,7 +1436,7 @@ function init(){
                         name: "Helping consumers increase market power",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1445,7 +1445,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1456,7 +1456,7 @@ function init(){
                         name: "Encouraging consumers to reduce energy use",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1465,7 +1465,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1475,7 +1475,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1485,7 +1485,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1498,7 +1498,7 @@ function init(){
                 name: "Increasing capacity, resilience and intelligence of energy systems",
                 data: {
                    hierarchy: "high",
-                   color: "#89b7cc"
+                   color: "#E478A4"
                    },
                 children: [
                         {
@@ -1506,7 +1506,7 @@ function init(){
                         name: "Finding new forms of funding for renewables",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1515,7 +1515,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1525,7 +1525,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1536,7 +1536,7 @@ function init(){
                         name: "Increasing energy storage to enable renewables",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1545,7 +1545,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1555,7 +1555,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1565,7 +1565,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1575,7 +1575,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1586,7 +1586,7 @@ function init(){
                         name: "Managing energy to enable renewables and improving efficiency",
                         data: {
                            hierarchy: "tactical",
-                           color: "#a9c1cc"
+                           color: "#EC9DBE"
                            },
                         children: [
                             {
@@ -1595,7 +1595,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1605,7 +1605,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             },
@@ -1615,7 +1615,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#bbc7cc"
+                               color: "#F3C3D7"
                                },
                             children: []
                             }
@@ -1630,7 +1630,7 @@ function init(){
         name: "Indirect emissions: emissions caused by activity within a place, but which are emitted elsewhere",
         data: {
            hierarchy: "strategic",
-           color: "#62b4a6"
+           color: "#FFC55F"
            },
         children: [
                 {
@@ -1638,7 +1638,7 @@ function init(){
                 name: "Reducing emissions from food",
                 data: {
                    hierarchy: "high",
-                   color: "#7db3aa"
+                   color: "#FFD282"
                    },
                 children: [
                         {
@@ -1646,7 +1646,7 @@ function init(){
                         name: "Reducing emissions caused by transporting food",
                         data: {
                            hierarchy: "tactical",
-                           color: "#9db7b3"
+                           color: "#FFDEA4"
                            },
                         children: [
                             {
@@ -1655,7 +1655,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1665,7 +1665,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1675,7 +1675,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1685,7 +1685,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             }
@@ -1696,7 +1696,7 @@ function init(){
                         name: "Switching to sustainable products",
                         data: {
                            hierarchy: "tactical",
-                           color: "#9db7b3"
+                           color: "#FFDEA4"
                            },
                         children: [
                             {
@@ -1705,7 +1705,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1715,7 +1715,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1725,7 +1725,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1735,7 +1735,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             }
@@ -1746,7 +1746,7 @@ function init(){
                         name: "Reducing emissions caused by wasting food",
                         data: {
                            hierarchy: "tactical",
-                           color: "#9db7b3"
+                           color: "#FFDEA4"
                            },
                         children: [
                             {
@@ -1755,7 +1755,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1765,7 +1765,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             }
@@ -1778,7 +1778,7 @@ function init(){
                 name: "Reducing emissions from consumer goods",
                 data: {
                    hierarchy: "high",
-                   color: "#7db3aa"
+                   color: "#FFD282"
                    },
                 children: [
                         {
@@ -1786,7 +1786,7 @@ function init(){
                         name: "Switching to circular economy products",
                         data: {
                            hierarchy: "tactical",
-                           color: "#9db7b3"
+                           color: "#FFDEA4"
                            },
                         children: [
                             {
@@ -1795,7 +1795,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1805,7 +1805,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             }
@@ -1816,7 +1816,7 @@ function init(){
                         name: "Reducing emissions from transport of consumer goods",
                         data: {
                            hierarchy: "tactical",
-                           color: "#9db7b3"
+                           color: "#FFDEA4"
                            },
                         children: [
                             {
@@ -1825,7 +1825,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1835,7 +1835,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1845,7 +1845,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             }
@@ -1856,7 +1856,7 @@ function init(){
                         name: "Reducing consumption of consumer goods",
                         data: {
                            hierarchy: "tactical",
-                           color: "#9db7b3"
+                           color: "#FFDEA4"
                            },
                         children: [
                             {
@@ -1865,7 +1865,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             }
@@ -1878,7 +1878,7 @@ function init(){
                 name: "Reducing emissions from online services",
                 data: {
                    hierarchy: "high",
-                   color: "#7db3aa"
+                   color: "#FFD282"
                    },
                 children: [
                         {
@@ -1886,7 +1886,7 @@ function init(){
                         name: "Reducing emissions from data centres",
                         data: {
                            hierarchy: "tactical",
-                           color: "#9db7b3"
+                           color: "#FFDEA4"
                            },
                         children: [
                             {
@@ -1895,7 +1895,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1905,7 +1905,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             }
@@ -1918,7 +1918,7 @@ function init(){
                 name: "Reducing emissions from construction",
                 data: {
                    hierarchy: "high",
-                   color: "#7db3aa"
+                   color: "#FFD282"
                    },
                 children: [
                         {
@@ -1926,7 +1926,7 @@ function init(){
                         name: "Increasing use of sustainable construction materials",
                         data: {
                            hierarchy: "tactical",
-                           color: "#9db7b3"
+                           color: "#FFDEA4"
                            },
                         children: [
                             {
@@ -1935,7 +1935,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1945,7 +1945,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1955,7 +1955,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1965,7 +1965,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1975,7 +1975,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -1985,7 +1985,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             }
@@ -1996,7 +1996,7 @@ function init(){
                         name: "Reducing waste in construction",
                         data: {
                            hierarchy: "tactical",
-                           color: "#9db7b3"
+                           color: "#FFDEA4"
                            },
                         children: [
                             {
@@ -2005,7 +2005,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -2015,7 +2015,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -2025,7 +2025,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -2035,7 +2035,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -2045,7 +2045,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             },
@@ -2055,7 +2055,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#b1bab9"
+                               color: "#FFEBC7"
                                },
                             children: []
                             }
@@ -2070,7 +2070,7 @@ function init(){
         name: "Capturing and offsetting emissions",
         data: {
            hierarchy: "strategic",
-           color: "#c578ae"
+           color: "#9A73EF"
            },
         children: [
                 {
@@ -2078,7 +2078,7 @@ function init(){
                 name: "Increasing carbon capture efficiency of existing natural land, woods, and waterways",
                 data: {
                    hierarchy: "high",
-                   color: "#c28bb2"
+                   color: "#B091F3"
                    },
                 children: [
                         {
@@ -2086,7 +2086,7 @@ function init(){
                         name: "Increasing carbon capture in land, parks and woodland",
                         data: {
                            hierarchy: "tactical",
-                           color: "#c1a4b9"
+                           color: "#C6B0F6"
                            },
                         children: [
                             {
@@ -2095,7 +2095,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2105,7 +2105,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2115,7 +2115,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2125,7 +2125,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2135,7 +2135,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2145,7 +2145,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             }
@@ -2156,7 +2156,7 @@ function init(){
                         name: "Increasing carbon capture in waterways and rivers",
                         data: {
                            hierarchy: "tactical",
-                           color: "#c1a4b9"
+                           color: "#C6B0F6"
                            },
                         children: [
                 {
@@ -2165,7 +2165,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2175,7 +2175,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2185,7 +2185,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2195,7 +2195,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2205,7 +2205,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             }
@@ -2218,7 +2218,7 @@ function init(){
                 name: "Creating new carbon capture natural assets",
                 data: {
                    hierarchy: "high",
-                   color: "#c28bb2"
+                   color: "#B091F3"
                    },
                 children: [
                         {
@@ -2226,7 +2226,7 @@ function init(){
                         name: "Increasing tree and green cover",
                         data: {
                            hierarchy: "tactical",
-                           color: "#c1a4b9"
+                           color: "#C6B0F6"
                            },
                         children: [
                             {
@@ -2235,7 +2235,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2245,7 +2245,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2255,7 +2255,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             }
@@ -2266,7 +2266,7 @@ function init(){
                         name: "Creating new water-based carbon capture",
                         data: {
                            hierarchy: "tactical",
-                           color: "#c1a4b9"
+                           color: "#C6B0F6"
                            },
                         children: [
                             {
@@ -2275,7 +2275,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "adapting",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             }
@@ -2288,7 +2288,7 @@ function init(){
                 name: "Carbon capture and storage through technology",
                 data: {
                    hierarchy: "high",
-                   color: "#c28bb2"
+                   color: "#B091F3"
                    },
                 children: [
                         {
@@ -2296,7 +2296,7 @@ function init(){
                         name: "Capturing carbon",
                         data: {
                            hierarchy: "tactical",
-                           color: "#c1a4b9"
+                           color: "#C6B0F6"
                            },
                         children: [
                 {
@@ -2305,7 +2305,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2315,7 +2315,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             }
@@ -2326,7 +2326,7 @@ function init(){
                         name: "Storing and using carbon",
                         data: {
                            hierarchy: "tactical",
-                           color: "#c1a4b9"
+                           color: "#C6B0F6"
                            },
                         children: [
                             {
@@ -2335,7 +2335,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2345,7 +2345,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2355,7 +2355,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             }
@@ -2368,7 +2368,7 @@ function init(){
                 name: "Funding carbon offsetting elsewhere",
                 data: {
                    hierarchy: "high",
-                   color: "#c28bb2"
+                   color: "#B091F3"
                    },
                 children: [
                        {
@@ -2376,7 +2376,7 @@ function init(){
                         name: "Asset creation schemes in other places",
                         data: {
                            hierarchy: "tactical",
-                           color: "#c1a4b9"
+                           color: "#C6B0F6"
                            },
                         children: [
                             {
@@ -2385,7 +2385,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2395,7 +2395,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             },
@@ -2405,7 +2405,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c1b4bd"
+                               color: "#DCCEFA"
                                },
                             children: []
                             }
@@ -2420,7 +2420,7 @@ function init(){
         name: "Culture, systems and processes to enable net zero",
         data: {
            hierarchy: "strategic",
-           color: "#cd836f"
+           color: "#54EACE"
            },
         children: [
                 {
@@ -2428,7 +2428,7 @@ function init(){
                 name: "Creating a culture of sustainability",
                 data: {
                    hierarchy: "high",
-                   color: "#c99587"
+                   color: "#79EFD9"
                    },
                 children: [
                        {
@@ -2436,7 +2436,7 @@ function init(){
                         name: "Education",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                             {
@@ -2445,7 +2445,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2455,7 +2455,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2466,7 +2466,7 @@ function init(){
                         name: "Building public connections with non-human nature",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                             {
@@ -2475,7 +2475,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2485,7 +2485,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2499,7 +2499,7 @@ function init(){
                 name: "Financial capital",
                 data: {
                    hierarchy: "high",
-                   color: "#c99587"
+                   color: "#79EFD9"
                    },
                 children: [
             {
@@ -2507,7 +2507,7 @@ function init(){
                         name: "Reducing exposure of investments to carbon",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2516,7 +2516,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2527,7 +2527,7 @@ function init(){
                         name: "Improving finance for net-zero projects",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2536,7 +2536,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2546,7 +2546,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2557,7 +2557,7 @@ function init(){
                         name: "Incentivising the market to pursue low-emissions activity",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2566,7 +2566,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2576,7 +2576,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2589,7 +2589,7 @@ function init(){
                 name: "Information on emissions",
                 data: {
                    hierarchy: "high",
-                   color: "#c99587"
+                   color: "#79EFD9"
                    },
                 children: [
             {
@@ -2597,7 +2597,7 @@ function init(){
                         name: "Monitoring carbon emissions",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2606,7 +2606,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2616,7 +2616,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2627,7 +2627,7 @@ function init(){
                         name: "Data sharing between sectors",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2636,7 +2636,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2647,7 +2647,7 @@ function init(){
                         name: "Spatial mapping of land use and emissions",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2656,7 +2656,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2666,7 +2666,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2679,7 +2679,7 @@ function init(){
                 name: "Policy",
                 data: {
                    hierarchy: "high",
-                   color: "#c99587"
+                   color: "#79EFD9"
                    },
                 children: [
             {
@@ -2687,7 +2687,7 @@ function init(){
                         name: "Building in low emissions to development",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2696,7 +2696,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2706,7 +2706,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2716,7 +2716,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2726,7 +2726,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2739,7 +2739,7 @@ function init(){
                 name: "Skills and human capital",
                 data: {
                    hierarchy: "high",
-                   color: "#c99587"
+                   color: "#79EFD9"
                    },
                 children: [
             {
@@ -2747,7 +2747,7 @@ function init(){
                         name: "Creating pipeline of skills necessary to achieve net zero in existing disciplines",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2756,7 +2756,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2769,7 +2769,7 @@ function init(){
                 name: "Governance models and processes",
                 data: {
                    hierarchy: "high",
-                   color: "#c99587"
+                   color: "#79EFD9"
                    },
                 children: [
             {
@@ -2777,7 +2777,7 @@ function init(){
                         name: "Corporate memory improvements",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2786,7 +2786,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2797,7 +2797,7 @@ function init(){
                         name: "Procurement changes",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2806,7 +2806,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2816,7 +2816,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2826,7 +2826,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2836,7 +2836,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2846,7 +2846,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2856,7 +2856,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2866,7 +2866,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2876,7 +2876,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }
@@ -2887,7 +2887,7 @@ function init(){
                         name: "Business cases, modelling and outcomes",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2896,7 +2896,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2906,7 +2906,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "established",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2916,7 +2916,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "emerging",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2926,7 +2926,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }                              
@@ -2937,7 +2937,7 @@ function init(){
                         name: "Engaging citizens in policy",
                         data: {
                            hierarchy: "tactical",
-                           color: "#caa89f"
+                           color: "#9EF3E3"
                            },
                         children: [
                 {
@@ -2946,7 +2946,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2956,7 +2956,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2966,7 +2966,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             },
@@ -2976,7 +2976,7 @@ function init(){
                             data: {
                                hierarchy: "solution",
                                band: "internal",
-                               color: "#c7b9b5"
+                               color: "#C3F8EE"
                                },
                             children: []
                             }   
