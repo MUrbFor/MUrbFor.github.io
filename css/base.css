@@ -126,8 +126,25 @@ a {
     width: 40%; 
     display: block; 
     height: 5%;
-    margin-top: 200px; 
+    margin-top: 150px; 
     margin-left: 55%;
+}
+
+
+.logo-image{
+    height: 80%;
+    align-content: left;
+
+}
+
+.img-fluid{
+    height: inherit;
+    width: inherit;
+    margin-left: 3vw;
+    margin-top: 1%;
+    margin-right: 90vw;
+
+
 }
 
 .second{
