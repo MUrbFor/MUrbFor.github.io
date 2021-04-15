@@ -18,7 +18,15 @@
 </head>
 
 <body onload="init();">
-        <div id="navbar"></div>
+        <div id="navbar">
+          <a class="navbar-brand" href="/">
+                <div class="logo-image">
+                      <img src="images/logouf.png" class="img-fluid">
+                </div>
+          </a>
+
+
+        </div>
         <div style="height: 1px;"></div>
         <div id="container" style="width: 100vw; height: 50vh; margin-top: 10vh; display: flex; position: relative;">
 
@@ -35,7 +43,7 @@
         <table id="orientation" style="display: none; margin-left: 75%;">
             <tr>
                 <td>
-                    <label for="r-left" style="font-family: 'Roboto', sans-serif; color:#2d2d61;">Horizontally </label>
+                    <label for="r-left">Horizontally </label>
                 </td>
                 <td>
                     <input type="radio" id="r-left" name="orientation" checked="checked" value="left" />
@@ -43,7 +51,7 @@
             </tr>
             <tr>
                  <td>
-                    <label for="r-top" style="font-family: 'Roboto', sans-serif; color:#2d2d61;">Vertically </label>
+                    <label for="r-top">Vertically </label>
                  </td>
                  <td>
                     <input type="radio" id="r-top" name="orientation"  value="top" />
@@ -86,7 +94,7 @@
             </tr>
         </table>
         <button id="reveal" onclick="reveal();" class="reveal">Start Exploring</button>
-        <button id="back" class="reveal" onclick="back();" style="display: none;">< Back to the main page</button>
+        <button id="back" class="reveal" onclick="back();" style="display: none; margin-top: 100px;">< Back to the main page</button>
 
         </div>
 
