@@ -33,6 +33,7 @@ function init(){
     name: "Getting to Net Zero",
     data: {
        hierarchy: "source",
+       band: "",
        color:"grey"
        },
     children: [{
@@ -40,6 +41,7 @@ function init(){
         name: "Reducing direct emissions: emissions from sources within a place",
         data: {
            hierarchy: "strategic",
+           band: "",
            color: "#53B8D3"
            },
         children: [
@@ -48,6 +50,7 @@ function init(){
                 name: "Reducing emissions from transport",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#78C7DD"
                    },
                 children: [
@@ -56,6 +59,7 @@ function init(){
                         name: "Encouraging people to cycle and walk",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -64,7 +68,7 @@ function init(){
                             name: "Built environment solutions for pedestrians and cycling ",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -74,7 +78,7 @@ function init(){
                             name: "Bike-sharing schemes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -84,7 +88,7 @@ function init(){
                             name: "Cycle to work schemes (procured by councils for their staff)",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -94,7 +98,7 @@ function init(){
                             name: "Behaviour change to encourage active travel",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -106,6 +110,7 @@ function init(){
                         name: "Encouraging people to use public and low-carbon transport",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -114,7 +119,7 @@ function init(){
                             name: "Mobility as a service",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -124,7 +129,7 @@ function init(){
                             name: "Journey planning apps",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -134,7 +139,7 @@ function init(){
                             name: "Integrated ticketing and smarter travel",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -144,7 +149,7 @@ function init(){
                             name: "Micromobility schemes",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -154,7 +159,7 @@ function init(){
                             name: "New mass transit systems",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -164,7 +169,7 @@ function init(){
                             name: "Bike retrofitting",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -176,6 +181,7 @@ function init(){
                         name: "Reducing emissions from cars and taxis (owned by citizens and businesses)",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -184,7 +190,7 @@ function init(){
                             name: "EV charging infrastructure",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -194,7 +200,7 @@ function init(){
                             name: "EV charging systems",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -204,7 +210,7 @@ function init(){
                             name: "Traffic management systems",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -214,7 +220,7 @@ function init(){
                             name: "Smart and emissions-based parking",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -224,7 +230,7 @@ function init(){
                             name: "Charges: congestion charges and LEZs",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -234,7 +240,7 @@ function init(){
                             name: "Taxi-leasing models for councils",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -244,7 +250,7 @@ function init(){
                             name: "Connected and autonomous vehicles",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -256,6 +262,7 @@ function init(){
                         name: "Reducing emissions from public-sector fleets",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -264,7 +271,7 @@ function init(){
                             name: "EV cars (purchase or lease by councils and public sector) ",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -274,7 +281,7 @@ function init(){
                             name: "EV municipal vehicles – gritters, bin lorries, etc",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -284,7 +291,7 @@ function init(){
                             name: "Alternative fuel vehicles: hydrogen, biogas, hybrid (purchase or lease by councils and public sector)",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -294,7 +301,7 @@ function init(){
                             name: "Replacing public-sector cars with e-bikes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -304,7 +311,7 @@ function init(){
                             name: "Cross public-sector car clubs",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -314,7 +321,7 @@ function init(){
                             name: "Smart driving tools",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -326,6 +333,7 @@ function init(){
                         name: "Reducing emissions from public transport",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -334,7 +342,7 @@ function init(){
                             name: "EV bus fleets",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -344,7 +352,7 @@ function init(){
                             name: "Other sustainable fuels in buses: LPG, biogas, hybrid, hydrogen, methanol",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -354,7 +362,7 @@ function init(){
                             name: "Bus and rail retrofitting solutions",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -364,7 +372,7 @@ function init(){
                             name: "Low-emission rail",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -376,6 +384,7 @@ function init(){
                         name: "Travel substitution",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -384,7 +393,7 @@ function init(){
                             name: "Remote and virtual working",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -396,6 +405,7 @@ function init(){
                         name: "Reducing aviation emissions",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -404,7 +414,7 @@ function init(){
                             name: "Drone substitution for public aviation services",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -414,7 +424,7 @@ function init(){
                             name: "Electric air taxi services using eVOTL technology",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -424,7 +434,7 @@ function init(){
                             name: "Alternatives to fuel engines and aviation gasoline",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -436,6 +446,7 @@ function init(){
                         name: "Reducing maritime emissions",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -444,7 +455,7 @@ function init(){
                             name: "Maritime EV and sustainable fuel ferries",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -454,7 +465,7 @@ function init(){
                             name: "Autonomous ships",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -466,6 +477,7 @@ function init(){
                         name: "Reducing freight and logistics emissions",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -474,7 +486,7 @@ function init(){
                             name: "Drone-based distribution services",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -484,7 +496,7 @@ function init(){
                             name: "EV freight and logistics cars, LGVS and HGVS",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -494,7 +506,7 @@ function init(){
                             name: "Alternative fuel cars, LGVs, HGVS and bikes",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -504,7 +516,7 @@ function init(){
                             name: "Autonomous delivery vehicles",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -518,6 +530,7 @@ function init(){
                 name: "Reducing emissions from buildings",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#78C7DD"
                    },
                 children: [
@@ -526,6 +539,7 @@ function init(){
                         name: "Improve energy efficiency of private housing and social housing",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -534,7 +548,7 @@ function init(){
                             name: "Domestic sector retrofit programmes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -544,7 +558,7 @@ function init(){
                             name: "Gas boiler replacement",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -554,7 +568,7 @@ function init(){
                             name: "Building inspections to enforce minimum standards of energy efficiency",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -564,7 +578,7 @@ function init(){
                             name: "Appliance upgrade programmes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -574,7 +588,7 @@ function init(){
                             name: "Installing double/triple glazing",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -584,7 +598,7 @@ function init(){
                             name: "IoT technology for energy use monitoring and control",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -594,7 +608,7 @@ function init(){
                             name: "Enable heat transfer from industrial sites to domestic",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -604,7 +618,7 @@ function init(){
                             name: "Accrediting landlords for standards",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -614,7 +628,7 @@ function init(){
                             name: "Installing reactive glazing",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -624,7 +638,7 @@ function init(){
                             name: "Design and build ultra-low energy buildings",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -634,7 +648,7 @@ function init(){
                             name: "Green roofing and walls",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -644,7 +658,7 @@ function init(){
                             name: "Heating-as-a-Service",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -656,6 +670,7 @@ function init(){
                         name: "Reducing emissions from public buildings",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -664,7 +679,7 @@ function init(){
                             name: "Design and build ultra-low energy buildings",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -674,7 +689,7 @@ function init(){
                             name: "Public sector retrofit and certification programmes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -684,7 +699,7 @@ function init(){
                             name: "Redesigning public services for building efficiency (such as hospital layouts)",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -694,7 +709,7 @@ function init(){
                             name: "IoT technology for energy use monitoring and control",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -704,7 +719,7 @@ function init(){
                             name: "Digital Twin and intelligent monitoring of whole building or built environment",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -716,6 +731,7 @@ function init(){
                         name: "Reducing emissions from offices",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -724,7 +740,7 @@ function init(){
                             name: "Carbon audit services",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -734,7 +750,7 @@ function init(){
                             name: "Office retrofit programmes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -744,7 +760,7 @@ function init(){
                             name: "Service redesign for efficiency in building use (including remote working, occupancy monitoring, hot desking)",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -754,7 +770,7 @@ function init(){
                             name: "Sustainable data centres",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -764,7 +780,7 @@ function init(){
                             name: "Heat capture from computer warming",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -778,6 +794,7 @@ function init(){
                 name: "Reducing emissions from industry",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#78C7DD"
                    },
                 children: [
@@ -786,6 +803,7 @@ function init(){
                         name: "Reducing emissions from factories, manufacturing and commercial premises",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -794,7 +812,7 @@ function init(){
                             name: "Alternatives to high-emissions chemical processes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -804,7 +822,7 @@ function init(){
                             name: "Clustering of industrial sites",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -814,7 +832,7 @@ function init(){
                             name: "Reduce water use and treatment for industrial processes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -824,7 +842,7 @@ function init(){
                             name: "Waste heat recovery",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -836,6 +854,7 @@ function init(){
                         name: "Reducing fugitive emissions",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -844,7 +863,7 @@ function init(){
                             name: "Inspection and accreditation services",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -854,7 +873,7 @@ function init(){
                             name: "Leak detection, including optical gas imaging and differential absorption lidar. ",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -868,6 +887,7 @@ function init(){
                 name: "Reducing emissions from waste",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#78C7DD"
                    },
                 children: [
@@ -876,6 +896,7 @@ function init(){
                         name: "Reducing domestic and industrial waste",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -884,7 +905,7 @@ function init(){
                             name: "Replacing unsustainable packaging and disposable goods with easily recyclable materials",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -894,7 +915,7 @@ function init(){
                             name: "Refurbish/reuse, product-service models, and circular economy models",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -904,7 +925,7 @@ function init(){
                             name: "Using less packaging",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -914,7 +935,7 @@ function init(){
                             name: "Behaviour change campaigns to reduce wasteful consumption",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -924,7 +945,7 @@ function init(){
                             name: "Behaviour change campaigns to reduce wasteful consumption",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -936,6 +957,7 @@ function init(){
                         name: "Reducing Emissions from Waste Management",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -944,7 +966,7 @@ function init(){
                             name: "New processes which make waste recyclable",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -954,7 +976,7 @@ function init(){
                             name: "Autoclave sterilisation of domestic and commercial waste for increased recyclability",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -964,7 +986,7 @@ function init(){
                             name: "Smart bin technology",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -974,7 +996,7 @@ function init(){
                             name: "Bin lorry route optimisation",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -984,7 +1006,7 @@ function init(){
                             name: "Near Infra-Red Spectroscopy for differentiating plastic polymers in recycling",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -994,7 +1016,7 @@ function init(){
                             name: "Novel techniques in waste sorting",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -1004,7 +1026,7 @@ function init(){
                             name: "Traditional waste management",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -1018,6 +1040,7 @@ function init(){
                 name: "Reducing emissions directly produced from public space, land and agriculture",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#78C7DD"
                    },
                 children: [
@@ -1026,6 +1049,7 @@ function init(){
                         name: "Reducing emissions from infrastructure and public realm",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -1034,7 +1058,7 @@ function init(){
                             name: "LED street lighting",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -1044,7 +1068,7 @@ function init(){
                             name: "Intelligent street lighting",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -1054,7 +1078,7 @@ function init(){
                             name: "Smart public realm monitoring",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -1066,6 +1090,7 @@ function init(){
                         name: "Reducing agricultural emissions",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9ED7E6"
                            },
                         children: [
@@ -1074,7 +1099,7 @@ function init(){
                             name: "Changing practices on county farms to reduce emissions",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -1084,7 +1109,7 @@ function init(){
                             name: "Support for farmers to change practices to reduce emissions",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3E6F0"
                                },
                             children: []
@@ -1100,6 +1125,7 @@ function init(){
         name: "Emissions from energy: emissions caused by energy production required by activity within a place",
         data: {
            hierarchy: "strategic",
+           band: "",
            color: "#DD528B"
            },
         children: [
@@ -1108,6 +1134,7 @@ function init(){
                 name: "Increasing renewables and low-carbon energy generation",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#E478A4"
                    },
                 children: [
@@ -1116,6 +1143,7 @@ function init(){
                         name: "Increasing renewable heat supply",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1124,7 +1152,7 @@ function init(){
                             name: "Installing hydrogen boilers",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1134,7 +1162,7 @@ function init(){
                             name: "Increasing hydrogen in gas supply",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1144,7 +1172,7 @@ function init(){
                             name: "Replacing gas with hydrogen in energy-intensive industry",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1154,7 +1182,7 @@ function init(){
                             name: "Domestic and commercial heat pump installation",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1164,7 +1192,7 @@ function init(){
                             name: "Novel heating technology",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1174,7 +1202,7 @@ function init(){
                             name: "Solar Thermal",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1186,15 +1214,16 @@ function init(){
                         name: "Increasing energy from biomass and waste",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
-                {
+                      {
                             id: "1.2.1.2.1",
                             name: "Domestic and commercial biomass schemes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1204,7 +1233,7 @@ function init(){
                             name: "Turning waste into biofuel",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1216,6 +1245,7 @@ function init(){
                         name: "Increasing energy from solar",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1224,7 +1254,7 @@ function init(){
                             name: "Installing PV cells on buildings",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1234,7 +1264,7 @@ function init(){
                             name: "Creating solar farms",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1244,7 +1274,7 @@ function init(){
                             name: "Novel solar, including nighttime photovoltaics and flexible solar films",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1256,6 +1286,7 @@ function init(){
                         name: "Increasing energy generation from kinetic processes",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1264,7 +1295,7 @@ function init(){
                             name: "Personal movement electricity generation",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1274,7 +1305,7 @@ function init(){
                             name: "Kinetic tiles and surfaces",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1286,6 +1317,7 @@ function init(){
                         name: "Increasing energy from geothermic sources",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1294,7 +1326,7 @@ function init(){
                             name: "Minewater energy",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1304,7 +1336,7 @@ function init(){
                             name: "Deep geothermal energy",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1314,7 +1346,7 @@ function init(){
                             name: "Shallow geothermal energy",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1324,7 +1356,7 @@ function init(){
                             name: "Novel geothermal",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1336,6 +1368,7 @@ function init(){
                         name: "Increasing energy from wind, wave and natural renewables",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1344,7 +1377,7 @@ function init(){
                             name: "Onshore wind",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1354,7 +1387,7 @@ function init(){
                             name: "Offshore wind",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1364,7 +1397,7 @@ function init(){
                             name: "Tidal power",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1374,7 +1407,7 @@ function init(){
                             name: "Hydroelectric",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1384,7 +1417,7 @@ function init(){
                             name: "Novel natural renewables",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1396,6 +1429,7 @@ function init(){
                         name: "Combining energy generation for buildings",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1404,7 +1438,7 @@ function init(){
                             name: "District and community heat networks",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1414,7 +1448,7 @@ function init(){
                             name: "Domestic and commercial CHP schemes",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1428,6 +1462,7 @@ function init(){
                 name: "Changing behaviour in energy consumption",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#E478A4"
                    },
                 children: [
@@ -1436,6 +1471,7 @@ function init(){
                         name: "Helping consumers increase market power",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1444,7 +1480,7 @@ function init(){
                             name: "Group buying services",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1456,6 +1492,7 @@ function init(){
                         name: "Encouraging consumers to reduce energy use",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1464,7 +1501,7 @@ function init(){
                             name: "Smart metering",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1474,7 +1511,7 @@ function init(){
                             name: "Behaviour change campaigns",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1484,7 +1521,7 @@ function init(){
                             name: "Information and advice to residents and businesses",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1498,6 +1535,7 @@ function init(){
                 name: "Increasing capacity, resilience and intelligence of energy systems",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#E478A4"
                    },
                 children: [
@@ -1506,6 +1544,7 @@ function init(){
                         name: "Finding new forms of funding for renewables",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1514,7 +1553,7 @@ function init(){
                             name: "Community-owned energy",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1524,7 +1563,7 @@ function init(){
                             name: "Public owned energy suppliers",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1536,6 +1575,7 @@ function init(){
                         name: "Increasing energy storage to enable renewables",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1544,7 +1584,7 @@ function init(){
                             name: "Battery storage",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1554,7 +1594,7 @@ function init(){
                             name: "Fuel cells",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1564,7 +1604,7 @@ function init(){
                             name: "Mechanical Storage",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1574,7 +1614,7 @@ function init(){
                             name: "Thermal storage",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1586,6 +1626,7 @@ function init(){
                         name: "Managing energy to enable renewables and improving efficiency",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#EC9DBE"
                            },
                         children: [
@@ -1594,7 +1635,7 @@ function init(){
                             name: "Smart grids",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1604,7 +1645,7 @@ function init(){
                             name: "Flexible demand services",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1614,7 +1655,7 @@ function init(){
                             name: "Time of use services",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#F3C3D7"
                                },
                             children: []
@@ -1630,6 +1671,7 @@ function init(){
         name: "Indirect emissions: emissions caused by activity within a place, but which are emitted elsewhere",
         data: {
            hierarchy: "strategic",
+           band: "",
            color: "#FFC55F"
            },
         children: [
@@ -1638,6 +1680,7 @@ function init(){
                 name: "Reducing emissions from food",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#FFD282"
                    },
                 children: [
@@ -1646,6 +1689,7 @@ function init(){
                         name: "Reducing emissions caused by transporting food",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#FFDEA4"
                            },
                         children: [
@@ -1654,7 +1698,7 @@ function init(){
                             name: "Localising supply chains to reduce food miles",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1664,7 +1708,7 @@ function init(){
                             name: "Land for community growing",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1674,7 +1718,7 @@ function init(){
                             name: "Urban farming/Vertical Farming",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1684,7 +1728,7 @@ function init(){
                             name: "Behaviour change campaigns to encourage local buying",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1696,6 +1740,7 @@ function init(){
                         name: "Switching to sustainable products",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#FFDEA4"
                            },
                         children: [
@@ -1704,7 +1749,7 @@ function init(){
                             name: "Low carbon contract caterers",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1714,7 +1759,7 @@ function init(){
                             name: "Switching wholesale food purchase away from meat and dairy",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1724,7 +1769,7 @@ function init(){
                             name: "Voluntary food labelling to indicate carbon costs",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1734,7 +1779,7 @@ function init(){
                             name: "Behaviour change campaigns to raise awareness of the carbon costs of food",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1746,6 +1791,7 @@ function init(){
                         name: "Reducing emissions caused by wasting food",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#FFDEA4"
                            },
                         children: [
@@ -1754,7 +1800,7 @@ function init(){
                             name: "Food and drink ERP software",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1764,7 +1810,7 @@ function init(){
                             name: "Food waste disposal services",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1778,6 +1824,7 @@ function init(){
                 name: "Reducing emissions from consumer goods",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#FFD282"
                    },
                 children: [
@@ -1786,6 +1833,7 @@ function init(){
                         name: "Switching to circular economy products",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#FFDEA4"
                            },
                         children: [
@@ -1794,7 +1842,7 @@ function init(){
                             name: "Accreditation schemes for circular economy products",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1804,7 +1852,7 @@ function init(){
                             name: "Second-hand goods market regulation to give consumer confidence",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1816,6 +1864,7 @@ function init(){
                         name: "Reducing emissions from transport of consumer goods",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#FFDEA4"
                            },
                         children: [
@@ -1824,7 +1873,7 @@ function init(){
                             name: "3D printing & additive manufacturing",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1834,7 +1883,7 @@ function init(){
                             name: "Distribution of business districts and shops (5 minute city model) through licencing",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1844,7 +1893,7 @@ function init(){
                             name: "Localising supply chains to reduce emissions",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1856,6 +1905,7 @@ function init(){
                         name: "Reducing consumption of consumer goods",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#FFDEA4"
                            },
                         children: [
@@ -1864,7 +1914,7 @@ function init(){
                             name: "Behaviour change campaigns (awareness raising and incentivising)",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1878,6 +1928,7 @@ function init(){
                 name: "Reducing emissions from online services",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#FFD282"
                    },
                 children: [
@@ -1886,6 +1937,7 @@ function init(){
                         name: "Reducing emissions from data centres",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#FFDEA4"
                            },
                         children: [
@@ -1894,7 +1946,7 @@ function init(){
                             name: "Sustainable data centres",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1904,7 +1956,7 @@ function init(){
                             name: "Reducing data-intensive processes",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1918,6 +1970,7 @@ function init(){
                 name: "Reducing emissions from construction",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#FFD282"
                    },
                 children: [
@@ -1926,6 +1979,7 @@ function init(){
                         name: "Increasing use of sustainable construction materials",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#FFDEA4"
                            },
                         children: [
@@ -1934,7 +1988,7 @@ function init(){
                             name: "Lower-carbon concrete",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1944,7 +1998,7 @@ function init(){
                             name: "Lower-carbon steel",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1954,7 +2008,7 @@ function init(){
                             name: "Timber construction (frames)",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1964,7 +2018,7 @@ function init(){
                             name: "Cross-Laminated Timber",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1974,7 +2028,7 @@ function init(){
                             name: "Other natural building materials including straw bales, grasscrete, rammed earth, hempcrete, and bamboo",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1984,7 +2038,7 @@ function init(){
                             name: "Use of reclaimed/refurbished materials",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -1996,6 +2050,7 @@ function init(){
                         name: "Reducing waste in construction",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#FFDEA4"
                            },
                         children: [
@@ -2004,7 +2059,7 @@ function init(){
                             name: "Modular construction",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -2014,7 +2069,7 @@ function init(){
                             name: "Automation of on-site processes",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -2024,7 +2079,7 @@ function init(){
                             name: "3D printing & additive manufacturing",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -2034,7 +2089,7 @@ function init(){
                             name: "Design for manufacture and assembly (DfMA)",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -2044,7 +2099,7 @@ function init(){
                             name: "BIM & Digital Planning",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -2054,7 +2109,7 @@ function init(){
                             name: "Construction ERP software (Enterprise Resource Planning)",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#FFEBC7"
                                },
                             children: []
@@ -2070,6 +2125,7 @@ function init(){
         name: "Capturing and offsetting emissions",
         data: {
            hierarchy: "strategic",
+           band: "",
            color: "#9A73EF"
            },
         children: [
@@ -2078,6 +2134,7 @@ function init(){
                 name: "Increasing carbon capture efficiency of existing natural land, woods, and waterways",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#B091F3"
                    },
                 children: [
@@ -2086,6 +2143,7 @@ function init(){
                         name: "Increasing carbon capture in land, parks and woodland",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#C6B0F6"
                            },
                         children: [
@@ -2094,7 +2152,7 @@ function init(){
                             name: "Peatland restoration",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2104,7 +2162,7 @@ function init(){
                             name: "Peatland protection monitoring",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2114,7 +2172,7 @@ function init(){
                             name: "Sustainable land management services",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2124,7 +2182,7 @@ function init(){
                             name: "Woodland management solutions",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2134,7 +2192,7 @@ function init(){
                             name: "Natural capital business modelling",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2144,7 +2202,7 @@ function init(){
                             name: "Carbon negative woodlands for biomass",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2156,6 +2214,7 @@ function init(){
                         name: "Increasing carbon capture in waterways and rivers",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#C6B0F6"
                            },
                         children: [
@@ -2164,7 +2223,7 @@ function init(){
                             name: "Wetland creation schemes along existing waterways",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2174,7 +2233,7 @@ function init(){
                             name: "Constructed wetland treatment systems",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2184,7 +2243,7 @@ function init(){
                             name: "Natural floodplain management systems",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2194,7 +2253,7 @@ function init(){
                             name: "Sustainable urban drainage systems",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2204,7 +2263,7 @@ function init(){
                             name: "Digital twinning in water treatment",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2218,6 +2277,7 @@ function init(){
                 name: "Creating new carbon capture natural assets",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#B091F3"
                    },
                 children: [
@@ -2226,6 +2286,7 @@ function init(){
                         name: "Increasing tree and green cover",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#C6B0F6"
                            },
                         children: [
@@ -2234,7 +2295,7 @@ function init(){
                             name: "New tree planting and green infrastructure",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2244,7 +2305,7 @@ function init(){
                             name: "Natural regeneration management ",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2254,7 +2315,7 @@ function init(){
                             name: "Green roofing",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2266,6 +2327,7 @@ function init(){
                         name: "Creating new water-based carbon capture",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#C6B0F6"
                            },
                         children: [
@@ -2274,7 +2336,7 @@ function init(){
                             name: "New wetlands, rivers and canals",
                             data: {
                                hierarchy: "solution",
-                               band: "adapting",
+                               band: "Adapting",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2288,6 +2350,7 @@ function init(){
                 name: "Carbon capture and storage through technology",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#B091F3"
                    },
                 children: [
@@ -2296,6 +2359,7 @@ function init(){
                         name: "Capturing carbon",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#C6B0F6"
                            },
                         children: [
@@ -2304,7 +2368,7 @@ function init(){
                             name: "Source capture technology",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2314,7 +2378,7 @@ function init(){
                             name: "Direct air capture technology",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2326,6 +2390,7 @@ function init(){
                         name: "Storing and using carbon",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#C6B0F6"
                            },
                         children: [
@@ -2334,7 +2399,7 @@ function init(){
                             name: "Geostorage",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2344,7 +2409,7 @@ function init(){
                             name: "Solid state storage",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2354,7 +2419,7 @@ function init(){
                             name: "Mineral storage",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2368,6 +2433,7 @@ function init(){
                 name: "Funding carbon offsetting elsewhere",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#B091F3"
                    },
                 children: [
@@ -2376,6 +2442,7 @@ function init(){
                         name: "Asset creation schemes in other places",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#C6B0F6"
                            },
                         children: [
@@ -2384,7 +2451,7 @@ function init(){
                             name: "Carbon offset providers",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2394,7 +2461,7 @@ function init(){
                             name: "Carbon offset accreditation services",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2404,7 +2471,7 @@ function init(){
                             name: "Buying and selling carbon offset credits",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#DCCEFA"
                                },
                             children: []
@@ -2420,6 +2487,7 @@ function init(){
         name: "Culture, systems and processes to enable net zero",
         data: {
            hierarchy: "strategic",
+           band: "",
            color: "#54EACE"
            },
         children: [
@@ -2428,6 +2496,7 @@ function init(){
                 name: "Creating a culture of sustainability",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#79EFD9"
                    },
                 children: [
@@ -2436,6 +2505,7 @@ function init(){
                         name: "Education",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2444,7 +2514,7 @@ function init(){
                             name: "School programmes",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2454,7 +2524,7 @@ function init(){
                             name: "Environmental awareness campaigns",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2466,6 +2536,7 @@ function init(){
                         name: "Building public connections with non-human nature",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2474,7 +2545,7 @@ function init(){
                             name: "Reflecting natural forms in the built environment",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2484,7 +2555,7 @@ function init(){
                             name: "Planting street trees and greening public spaces",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2499,6 +2570,7 @@ function init(){
                 name: "Financial capital",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#79EFD9"
                    },
                 children: [
@@ -2507,6 +2579,7 @@ function init(){
                         name: "Reducing exposure of investments to carbon",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2515,7 +2588,7 @@ function init(){
                             name: "Green pension/investment funds",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2527,6 +2600,7 @@ function init(){
                         name: "Improving finance for net-zero projects",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2535,7 +2609,7 @@ function init(){
                             name: "Green vehicle finance",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2545,7 +2619,7 @@ function init(){
                             name: "Green insurance products",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2557,6 +2631,7 @@ function init(){
                         name: "Incentivising the market to pursue low-emissions activity",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2565,7 +2640,7 @@ function init(){
                             name: "Carbon trading and pricing schemes",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2575,7 +2650,7 @@ function init(){
                             name: "Carbon pricing for suppliers",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2589,6 +2664,7 @@ function init(){
                 name: "Information on emissions",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#79EFD9"
                    },
                 children: [
@@ -2597,6 +2673,7 @@ function init(){
                         name: "Monitoring carbon emissions",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2605,7 +2682,7 @@ function init(){
                             name: "Emissions monitoring software",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2615,7 +2692,7 @@ function init(){
                             name: "Emissions monitoring hardware",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2627,6 +2704,7 @@ function init(){
                         name: "Data sharing between sectors",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2635,7 +2713,7 @@ function init(){
                             name: "Open data regulations",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2647,6 +2725,7 @@ function init(){
                         name: "Spatial mapping of land use and emissions",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2655,7 +2734,7 @@ function init(){
                             name: "Creating land use and land ownership maps",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2665,7 +2744,7 @@ function init(){
                             name: "Creating spatial emissions and environmental information maps",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2679,6 +2758,7 @@ function init(){
                 name: "Policy",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#79EFD9"
                    },
                 children: [
@@ -2687,6 +2767,7 @@ function init(){
                         name: "Building in low emissions to development",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2695,7 +2776,7 @@ function init(){
                             name: "Planning policy requiring minimum efficiency standards",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2705,7 +2786,7 @@ function init(){
                             name: "Spatial planning to encourage active travel ",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2715,7 +2796,7 @@ function init(){
                             name: "Housing planning alongside public transport planning",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2725,7 +2806,7 @@ function init(){
                             name: "Planning policy to encourage renewables",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2739,6 +2820,7 @@ function init(){
                 name: "Skills and human capital",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#79EFD9"
                    },
                 children: [
@@ -2747,6 +2829,7 @@ function init(){
                         name: "Creating pipeline of skills necessary to achieve net zero in existing disciplines",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2755,7 +2838,7 @@ function init(){
                             name: "Training providers",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2769,6 +2852,7 @@ function init(){
                 name: "Governance models and processes",
                 data: {
                    hierarchy: "high",
+                   band: "",
                    color: "#79EFD9"
                    },
                 children: [
@@ -2777,6 +2861,7 @@ function init(){
                         name: "Corporate memory improvements",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2785,7 +2870,7 @@ function init(){
                             name: "Management software and tech providers",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2797,6 +2882,7 @@ function init(){
                         name: "Procurement changes",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2805,7 +2891,7 @@ function init(){
                             name: "Procurement consortia for immature markets",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2815,7 +2901,7 @@ function init(){
                             name: "Scoring for carbon impact",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2825,7 +2911,7 @@ function init(){
                             name: "Challenge-based procurement",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2835,7 +2921,7 @@ function init(){
                             name: "Culture challenge in policy vs procurement",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2845,7 +2931,7 @@ function init(){
                             name: "Legal advice to avoid gold-plating procurement law",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2855,7 +2941,7 @@ function init(){
                             name: "Collaborative procurement approaches",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2865,7 +2951,7 @@ function init(){
                             name: "Two-tier procurement approaches",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2875,7 +2961,7 @@ function init(){
                             name: "Principle contractors with carbon targets",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2887,6 +2973,7 @@ function init(){
                         name: "Business cases, modelling and outcomes",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2895,7 +2982,7 @@ function init(){
                             name: "Consultancy services for exploring business cases",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2905,7 +2992,7 @@ function init(){
                             name: "Whole-life costing of products and services",
                             data: {
                                hierarchy: "solution",
-                               band: "established",
+                               band: "Established",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2915,7 +3002,7 @@ function init(){
                             name: "Carbon budgeting tools",
                             data: {
                                hierarchy: "solution",
-                               band: "emerging",
+                               band: "Emerging",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2925,7 +3012,7 @@ function init(){
                             name: "Consolidation of budgets to remove silos",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2937,6 +3024,7 @@ function init(){
                         name: "Engaging citizens in policy",
                         data: {
                            hierarchy: "tactical",
+                           band: "",
                            color: "#9EF3E3"
                            },
                         children: [
@@ -2945,7 +3033,7 @@ function init(){
                             name: "Participation services",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2955,7 +3043,7 @@ function init(){
                             name: "Consultation services",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2965,7 +3053,7 @@ function init(){
                             name: "Citizen assemblies and online forums",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -2975,7 +3063,7 @@ function init(){
                             name: "Communications",
                             data: {
                                hierarchy: "solution",
-                               band: "internal",
+                               band: "Internal",
                                color: "#C3F8EE"
                                },
                             children: []
@@ -3013,7 +3101,7 @@ function init(){
             align: "center",  
             width: 250,
             type: 'rectangle',
-            color: '#C0C0C0',
+            color: '#aaa',
             overridable: true,
             lineWidth: 1
         },
@@ -3038,7 +3126,7 @@ function init(){
         //your node.
         onCreateLabel: function(label, node){
             label.id = node.id;            
-            label.innerHTML = node.name;
+            label.innerHTML = node.name + "<div style=&quot; height:3px;&quot;></div><a style=&quot;text-transform: uppercase;&quot;>" + node.data.band + "</a>";
             label.onclick = function(){
             	if(normal.checked) {
             	  st.onClick(node.id);
