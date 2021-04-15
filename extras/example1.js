@@ -3009,8 +3009,9 @@ function init(){
         //set overridable=true for styling individual
         //nodes or edges
         Node: {
-            height: 50,
-            width: 300,
+            autoHeight: true,  
+            align: "center",  
+            width: 250,
             type: 'rectangle',
             color: '#aaa',
             overridable: true,
@@ -3051,9 +3052,10 @@ function init(){
             style.height = 40 + 'px';            
             style.cursor = 'pointer';
             style.color = '#333';
-            style.fontSize = '0.8em';
+            style.fontSize = '1em';
+            style.fontWeight = '800';
             style.textAlign= 'center';
-            style.paddingTop = '5px';
+            style.paddingTop = '10px';
             style.paddingLeft = '20px';
 
         },
