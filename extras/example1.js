@@ -3037,7 +3037,7 @@ function init(){
         //your node.
         onCreateLabel: function(label, node){
             label.id = node.id;            
-            label.innerHTML = node.name + "<br>" + node.data.hierarchy;
+            label.innerHTML = node.name;
             label.onclick = function(){
             	if(normal.checked) {
             	  st.onClick(node.id);
