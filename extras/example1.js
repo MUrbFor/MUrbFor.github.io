@@ -3009,9 +3009,9 @@ function init(){
         //set overridable=true for styling individual
         //nodes or edges
         Node: {
-            autoHeight: true,  
+            height: 45,  
             align: "center",  
-            width: 250,
+            width: 300,
             type: 'rectangle',
             color: '#aaa',
             overridable: true,
@@ -3048,7 +3048,7 @@ function init(){
             };
             //set label styles
             var style = label.style;
-            style.width = 240 + 'px';
+            style.width = 300 + 'px';
             style.height = 40 + 'px';            
             style.cursor = 'pointer';
             style.color = '#333';
