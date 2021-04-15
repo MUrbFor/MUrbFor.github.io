@@ -3013,7 +3013,7 @@ function init(){
             align: "center",  
             width: 250,
             type: 'rectangle',
-            color: '#F5F5F5',
+            color: '#C0C0C0',
             overridable: true,
             lineWidth: 1
         },
