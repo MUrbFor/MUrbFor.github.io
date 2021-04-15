@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -24,19 +24,18 @@
 
         <div id="right-container" style="position: relative; height: 90vh; flex: 30%; background-color: #F2F2F2;">
 
-        <h4 style="font-family:'Archivo Black', sans-serif; font-size: 40px; text-align: right; padding-right: 10px; color: #2d2d61; width: 70%; margin-left: 25%;">THIS WILL BE THE MIAN TITLE </h4>
-        <p style="font-family:'Archivo Black', sans-serif; font-size: 14px; text-align: right; padding-right: 10px; color: #2d2d61; width: 80%; margin-left: 15%;"> This framework is designed to break down net zero into smaller themes and actions.  </p>
-        <p style="font-family:'Archivo Black', sans-serif; font-size: 14px; text-align: right; padding-right: 10px; color: #2d2d61; width: 80%; margin-left: 15%;"> The purpose is to help Innovate UK and local authorities understand the range of things that councils can do to get to net zero – with different levels of focus, from big strategic challenges through to smaller, tactical challenges.  </p>
-        <p style="font-family:'Archivo Black', sans-serif; font-size: 14px; text-align: right; padding-right: 10px; color: #2d2d61; width: 80%; margin-left: 15%;"> It then gives a snapshot of the solutions that companies are offering, to give an at-a-glance assessment of where private firms fit in to net zero plans. </p>
+        <h4 class= "title">A FRAMEWORK FOR NET ZERO ACTIONS BY LOCAL AUTHORITIES</h4>
+        <p class="pageText first" id="l1"> This framework is designed to break down net zero into smaller themes and actions.  </p>
+        <p class="pageText first" id="l2"> The purpose is to help Innovate UK and local authorities understand the range of things that councils can do to get to net zero – with different levels of focus, from big strategic challenges through to smaller, tactical challenges.  </p>
+        <p class="pageText first" id="l3"> It then gives a snapshot of the solutions that companies are offering, to give an at-a-glance assessment of where private firms fit in to net zero plans. </p>
+        <p class="pageText second" id="l4"> Click on each strategic challenge to view further levels of detail.  </p>
+        <p class="pageText second" id="l5"> The tool takes you through strategic challenges, high-level challenges, tactical challenges for places to define different levels of focus in net zero projects – and then lists tactical solutions which the private sector is offering. </p>
+        <p class="pageText second" id="l6"> Click here to toggle between viewing the framework vertically or horizontally: </p>
 
-
-
-
-
-        <table id="orientation" style="display: none;">
+        <table id="orientation" style="display: none; margin-left: 75%;">
             <tr>
                 <td>
-                    <label for="r-left" style="margin-left: 40%;">Left </label>
+                    <label for="r-left">Horizontally </label>
                 </td>
                 <td>
                     <input type="radio" id="r-left" name="orientation" checked="checked" value="left" />
@@ -44,7 +43,7 @@
             </tr>
             <tr>
                  <td>
-                    <label for="r-top">Top </label>
+                    <label for="r-top">Vertically </label>
                  </td>
                  <td>
                     <input type="radio" id="r-top" name="orientation"  value="top" />
@@ -86,7 +85,8 @@
                  </td>
             </tr>
         </table>
-        <button id="reveal" onclick="reveal();"style="position: relative;width: 20%; height: 30px; display: block; margin-top: 200px; margin-left: 75%;">Start Exploring</button>
+        <button id="reveal" onclick="reveal();" class="reveal">Start Exploring</button>
+        <button id="back" class="reveal" onclick="back();" style="display: none;">< Back to the main page</button>
 
         </div>
 
@@ -101,7 +101,17 @@
       document.getElementById("center-container").style.visibility= 'visible' ;
       document.getElementById("reveal").style.display= 'none' ;
       document.getElementById("orientation").style.display= 'block' ;
+      document.getElementById("back").style.display= 'block';
+      document.getElementById("l1").style.display= 'none';
+      document.getElementById("l2").style.display= 'none';
+      document.getElementById("l3").style.display= 'none';
+      document.getElementById("l4").style.display= 'block';
+      document.getElementById("l5").style.display= 'block';
+      document.getElementById("l6").style.display= 'block';
 
+  }
+  function back() {
+    location.reload();
   }
 </script>
 </html>
