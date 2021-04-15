@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Roboto:wght@300&display=swap');
+
+
 html, body {
     margin:0;
     padding:0;
-    font-family: "Lucida Grande", Verdana;
+    font-family: 'Roboto', sans-serif;
     font-size: 0.9em;
     text-align: center;
     background-color:#F2F2F2;
@@ -107,4 +110,26 @@ a {
     font-size:10px;
     font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
     padding:7px;
+}
+
+.pageText{
+     font-size: 20px; 
+     text-align: right; 
+     padding-right: 10px; 
+     color: #2d2d61; 
+     width: 80%; 
+     margin-left: 15%;
+}
+
+.reveal{
+    position: relative;
+    width: 40%; 
+    display: block; 
+    height: 5%;
+    margin-top: 200px; 
+    margin-left: 55%;
+}
+
+.second{
+    display: none;
 }
